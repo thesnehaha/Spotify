@@ -6,7 +6,7 @@ Through this analysis, I have also derived insights relevant to business analysi
 
 ## Dataset Description
 
-- - **Source**: [Kaggle - Spotify Dataset by Sanjana Chaudhari](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+- **Source**: [Kaggle - Spotify Dataset by Sanjana Chaudhari](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 - **File Used**: `spotify_dataset.csv`
 - **Total Records**: ~1,100+
   
